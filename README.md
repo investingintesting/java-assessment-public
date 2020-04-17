@@ -45,6 +45,7 @@ performed by Test Engineers.
 
 ### Questions
 
+- Tell us about a hard or challenging situation they've encountered in your career. If you could revisit that experience, what would you do differently?
 - Should and if so how can you include testers that can't code in a test automation project?
 - What are the differences in frameworks available to testers?
 - Discuss the test pyramid, what are the positives and negatives, when should and shouldn't you follow it?
