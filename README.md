@@ -12,7 +12,7 @@ performed by Test Engineers.
 
  - Checkout the code in this repository.  Please make the repository private such that others can't copy your answers.
  - Spend 1-2 hours either making or detailing changes to the repository to improve (modify/add/delete) the tests, steps, pages, framework and fixing any mistakes.  Consider this to be a real project where these tests are designed to run on a test environment, and potentially later on a pre-prod environment.  All the tests should be completed as if you were working at a real company.
- - Spend 1-2 hours implementing the Product Feature.
+ - Spend 1-2 hours implementing the Purchase Feature.
  - Spend 1-2 hours completing the tasks which best match your skill level in the task set.
  - Answer the questions found in this Readme file.
 
