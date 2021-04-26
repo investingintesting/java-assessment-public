@@ -16,7 +16,7 @@
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <maven.surefire.version>2.22.1</maven.surefire.version>
         <appium-java-version>5.0.4</appium-java-version>
-        <commons-io-version>2.5</commons-io-version>
+        <commons-io-version>2.7</commons-io-version>
         <commons-lang3-version>3.6</commons-lang3-version>
         <compiler-version>3.7.0</compiler-version>
         <deploy-plugin-version>2.8.2</deploy-plugin-version>
